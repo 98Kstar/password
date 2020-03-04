@@ -4,12 +4,10 @@ admin@huawei.com
 Admin@123
 O&m15213
 Admin_123
-Admin@123
 Changeme123
 WWW@HUAWEI
 admin123
 mduadmin
-WWW@HUAWEI
 Changeme_123
 huawei123
 userEp
@@ -29,4 +27,3 @@ Wo#a*Vk%._88
 Huawei@123
 Cis#BigData123
 Bigdata123@
-
